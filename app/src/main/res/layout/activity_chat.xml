@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0FFFFFFF"
+    android:orientation="vertical"
+    android:padding="5sp">
+
+
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+
+       <TextView
+           android:id="@+id/nombre"
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:gravity="center"
+           android:layout_weight="1"
+           android:text="Marcela"
+           android:textColor="@color/black"
+           android:textSize="20sp"
+           android:textStyle="bold" />
+
+           <ImageButton
+               android:id="@+id/imageButton"
+               android:layout_width="wrap_content"
+               android:layout_height="match_parent"
+               android:background="@android:color/transparent"
+               android:src="@mipmap/ic_llamada"/>
+
+       </LinearLayout>
+
+
+
+
+
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMensajes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/txtMensajes"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:hint="Escribe el mensaje" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/btnEnviar"
+            android:text="Enviar" />
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

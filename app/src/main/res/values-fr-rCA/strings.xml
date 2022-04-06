@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LDM</string>
+    //menu
+    <string name="cal" > Calendrier</string>
+    <string name="iding" >Anglais</string>
+    <string name="idfran" > français</string>
+    <string name="conexionBT" >LienBT</string>
+    <string name="desconexionBT" > CoupureBT </string>
+    <string name="RegistroNivel" > Niveau </string>
+    <string name="SALIR" > Fermer la session </string>
+
+    //item
+    <string name="mg_dl">mg/dL</string>
+    <string name="puntoycoma">;</string>
+    <string name="todo">tout</string>
+
+    //main
+    <string name="emailLogin">Courrier électronique</string>
+    <string name="passLogin">le mot de passe</string>
+    <string name="UserLogin">Nom d\'utilisateur</string>
+    <string name="AdmLogin">administrateur</string>
+    <string name="button2">commencer la session</string>
+    <string name="textView2">enregistrement</string>
+    <string name="textView">Mot de passe oublié?</string>
+
+    //registrar analisis
+    <string name="antesdecomer_rdbutton">Avant de manger</string>
+    <string name="despuesdecomer_rdbutton">Après avoir mangé</string>
+    <string name="pocacomida_rdbutton">Peu de nourriture</string>
+    <string name="demasiadacomida_rdbutton">Trop de nourriture</string>
+    <string name="ejerciciomoderado_rdbutton">Exercice modéré</string>
+    <string name="sientehipoglucemia_rdbutton">Vous vous sentez hypoglycémique</string>
+    <string name="menstruacion_rdbutton">Menstruation</string>
+    <string name="videollamada"> apple vidéo</string>
+
+    //recuperar contraseña
+    <string name="button4">Restaurer le mot de passe</string>
+    <string name="RecEditText">courrier électronique</string>
+    <string name="ejerciciointenso_rdbutton">Exercice intense</string>
+    <string name="medicacion_rdbutton">des médicaments</string>
+    <string name="registraranalisis_btn">Analyse du registre</string>
+
+    //notas
+    <string name="textoNotas">Vous souhaitez ajouter une note</string>
+    <string name="button5">Ajouter</string>
+    <string name="button3"> Discuter </string>
+    <string name="chat"> Discuter </string>
+    <string name="perfil"> Perfil </string>
+</resources>

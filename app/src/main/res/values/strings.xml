@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">LDM</string>
+    //menu
+    <string name="cal"> Calendario</string>
+    <string name="iding">Inglés</string>
+    <string name="idfran"> Francés</string>
+    <string name="conexionBT">ConexiónBT</string>
+    <string name="desconexionBT"> DesconexiónBT </string>
+    <string name="RegistroNivel"> Nivel </string>
+    <string name="SALIR"> Salir </string>
+
+
+    //item
+    <string name="mg_dl">mg/dL</string>
+    <string name="puntoycoma">;</string>
+    <string name="todo">TODO</string>
+
+    //main
+    <string name="emailLogin">Correo electrónico</string>
+    <string name="passLogin">Contraseña</string>
+    <string name="UserLogin">Usuario</string>
+    <string name="AdmLogin">Administrador</string>
+    <string name="textView">¿Olvidaste la contraseña?</string>
+    <string name="button2">Ingresar</string>
+    <string name="textView2">Registrarse</string>
+
+    //recuperar contraseña
+    <string name="button4">Restablecer contraseña</string>
+    <string name="RecEditText">Correo electrónico</string>
+
+    //registrar analisis
+    <string name="antesdecomer_rdbutton">Antes de comer</string>
+    <string name="despuesdecomer_rdbutton">Después de comer</string>
+    <string name="pocacomida_rdbutton">Poca comida</string>
+    <string name="demasiadacomida_rdbutton">Demasiada comida</string>
+    <string name="ejerciciomoderado_rdbutton">Ejercicio moderado</string>
+    <string name="ejerciciointenso_rdbutton">Ejercicio intenso</string>
+    <string name="medicacion_rdbutton">Medicación</string>
+    <string name="sientehipoglucemia_rdbutton">Siente hipoglucemia</string>
+    <string name="menstruacion_rdbutton">Menstruación</string>
+    <string name="registraranalisis_btn">Registrar Análisis</string>
+    <string name="videollamada"> Videollamada</string>
+    <string name="button3"> Conversación </string>
+
+
+    <string name="textoNotas">Deseas agregar una nota</string>
+    <string name="button5">Agregar</string>
+    <string name="chat"> Chat </string>
+    <string name="perfil"> Perfil </string>
+
+
+</resources>

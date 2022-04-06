@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LDM</string>
+    //menu
+    <string name="cal" >" Calendar"</string>
+    <string name="iding" >English</string>
+    <string name="idfran" >French</string>
+    <string name="conexionBT" >BTConnection</string>
+    <string name="desconexionBT">BTDesconnection</string>
+    <string name="RegistroNivel">Level</string>
+    <string name="SALIR" >Sign off</string>
+
+    //item
+    <string name="mg_dl">mg/dL</string>
+    <string name="puntoycoma">;</string>
+    <string name="todo">Everything</string>
+
+    //main
+    <string name="emailLogin">email</string>
+    <string name="passLogin">password</string>
+    <string name="UserLogin">User</string>
+    <string name="AdmLogin">Administrator</string>
+    <string name="textView">Forgot your password?</string>
+    <string name="button2">log in</string>
+    <string name="textView2">Check in</string>
+
+    //recuperar contraseña
+    <string name="button4">Restore password</string>
+    <string name="RecEditText">Email</string>
+
+    //registrar analisis
+    <string name="antesdecomer_rdbutton">Before eating</string>
+    <string name="despuesdecomer_rdbutton">After eating</string>
+    <string name="pocacomida_rdbutton">Little food</string>
+    <string name="demasiadacomida_rdbutton">Too much food</string>
+    <string name="ejerciciomoderado_rdbutton">Moderate exercise</string>
+    <string name="medicacion_rdbutton">medication</string>
+    <string name="sientehipoglucemia_rdbutton">You feel hypoglycemic</string>
+    <string name="menstruacion_rdbutton">Menstruation</string>
+    <string name="registraranalisis_btn">Register Analysis</string>
+    <string name="ejerciciointenso_rdbutton">Intense exercise</string>
+    <string name="videollamada"> Video call</string>
+    <string name="button3"> Chat </string>
+    //notas
+    <string name="textoNotas">You want to add a note</string>
+    <string name="button5">Add</string>
+    <string name="chat"> Chat </string>
+    <string name="perfil"> Perfil </string>
+</resources>

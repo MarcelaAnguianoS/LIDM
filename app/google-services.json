@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389615298199",
+    "project_id": "calcimetro1",
+    "storage_bucket": "calcimetro1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389615298199:android:3e55071a1ff9cbbee06bd2",
+        "android_client_info": {
+          "package_name": "com.example.calcimetro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389615298199-drakmgfdpmc7n2s0eqvqgi6gn36k47o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKSe50EeDvWnr0ipLLMQSd1cEbl5M41ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389615298199-drakmgfdpmc7n2s0eqvqgi6gn36k47o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

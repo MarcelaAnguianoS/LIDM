@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/idioma1"
+        android:title="@string/idfran"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/idioma2"
+        android:title="@string/iding"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/cerrar"
+        android:title="@string/SALIR"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/chat"
+        android:title="@string/chat"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_chatbueno"/>
+
+    <item android:id="@+id/perfil"
+        android:title="@string/perfil"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_perfilbueno"/>
+
+</menu>

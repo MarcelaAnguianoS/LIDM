@@ -1,0 +1,4 @@
+include ':BluetoothJhr2'
+include ':bluetoothjhr'
+include ':app'
+rootProject.name = "Calcimetro"
